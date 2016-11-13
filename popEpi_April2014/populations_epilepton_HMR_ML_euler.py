@@ -147,7 +147,7 @@ radical="_%i_HMR_%i_ML_CpES1_%i_CpES2_%i_x0_%i_noise1_%i_noise2_%i_noise3_%i_gx1
 np.save('x1s'+radical+'.npy', x_1s)
 np.save('x2s'+radical+'.npy', x_2s)
 np.save('y1s'+radical+'.npy', y_1s)
-np.save('y2s'+radical+'.npy', y_2s)
+np.save('ns'+radical+'.npy', n_s)
 np.save('zs'+radical+'.npy', z_s)
 np.save('t'+radical+'.npy', t_plot)
 #np.save('KOP'+radical+'.npy', KOP_plot)'''
@@ -162,7 +162,7 @@ ax2=fig.add_subplot(613); ax2.hold(True)
 ax3=fig.add_subplot(615); ax3.hold(True)
 ax4=fig.add_subplot(616); ax4.hold(True)
 ax5=fig.add_subplot(612); ax5.hold(True)
-ax6=fig.add_subplot(614); ax5.hold(True)
+ax6=fig.add_subplot(614); ax6.hold(True)
 #useless loops since it is vectorized now but whatever...
 for i in range(nbn1):
         #time series pop1
