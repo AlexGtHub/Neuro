@@ -1,6 +1,6 @@
 Hi, Thanks for downloading this code. 
 This is the readme file for the model associated with the paper:
-Naze S., Bernard C. Jirsa V. K. (2014). Computational modeling of seizure dynamics using coupled neuronal networks: Factors shaping epileptoform activity.
+Naze S., Bernard C. Jirsa V. K. (2015). Computational modeling of seizure dynamics using coupled neuronal networks: Factors shaping epileptoform activity.
 
 All the files were supplied by the authors. Copyright Sebastien Naze, 2014. email: sebastien.naze@gmail.com
 
